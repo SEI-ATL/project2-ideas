@@ -9,7 +9,7 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
+1. Using strain API, making an app where users can log in look through various marijuana strains and effects and engage on a platform about which ones they enjoy, what kind of effects they've had with the strain(ie: positive or negative)
 2. 
 3.
 ---------------------------------------------------------
