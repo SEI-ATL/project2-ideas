@@ -54,15 +54,32 @@ In the space below:
 * if there are any changes/additions to your user stories, place your full set of revised user stories here
 * either embed or link wireframes for every page of your app
 
+
+# APPROVED
+### 1. Discord Emoji Manager
+ - API: [discord api](https://discord.com/developers/docs/intro)
+
+![ss](https://github.com/ruvvet/project2-ideas/blob/main/img/discordemoji.png)
+
+
 ----------------------------------------------------------
 ### ERD
+Models: Users + Emojis
+
+![ss](https://github.com/ruvvet/project2-ideas/blob/main/img/ERD.png)
 
 ----------------------------------------------------------
 ### User Stories
 
+User story:
+ - __Who:__  Users will login and be able to link up to their discord channels/servers by logging in via discord oauth
+ - __What:__  They will be able to add, edit, and delete emojis from channels through a simple web app
+ - __Why:__ New emojis will go to a library of emojis that will be publicly accessible for users to share and select from.
+
 ----------------------------------------------------------
 ### Wireframes
 
+![ss](https://github.com/ruvvet/project2-ideas/blob/main/img/wireframe.png)
 ----------------------------------------------------------
 
 Make a PR when you're done!
