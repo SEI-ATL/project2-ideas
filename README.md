@@ -9,8 +9,9 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. My top idea which I've been thinking about all weekend is buliding a weather app using a third part api. Where each user can save their favorite location or simply just seatch using loction( city/state or city/country).
-2. 
+1. My top idea which I've been thinking about all weekend is buliding a weather app using a third part api. Where each user can save their favorite location or simply just seatch using loction( city/state or city/country).Motivation for doing this is I miss being able to travel
+2. Build an nba stats application where a user can keep tabs on their favorite players through out the season. With updated stats and fun facts. Also using a third partyapp.
+I thought about this as a person that plays fantasy sports.
 3.
 ---------------------------------------------------------
 
