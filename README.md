@@ -18,7 +18,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
       
     C. Would I only need a more basic music API if I'm going to be searching by frequency profile? Or would I need something like the "fingerprint" in AcoustId?
     
-    D. Is it too complex to directly search for matching frequency profiles? Or could I just 
+    D. Is it too complex to directly search for matching frequency profiles? Or could I just find a way to narrowly compare different songs?
     
 2. Something that explores an EEG data set: https://openneuro.org/public/datasets
 
