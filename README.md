@@ -10,13 +10,21 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 --------------------------------------------------------
 1. An app that shows radiation levels in your area to know if you should wear suncreen or not. -NASA API
+Story: User can see radiation levels in area to see if suncreen should be worn or not.
 2. An app that shows when space x is launching a rocket, all the information about the mission and all the information about the rocket that is launching it. -Unoffical spaceX API
+Story: User can be up to date on launch information from SpaceX.
 3. Click on an image of the sky and get detailed information about a star/nebula/planet in the area you clicked on(dont know if this would be possible but this is my fav idea) - NASA API
+Story: User can get information on space information based on where the user clicked on the screen.
 4. An app that shows all natural events happening on earth in real time (earthquakes/fires/hurricanes/tornados) - NASA API
+Story: User can see what natural diaster events are happening on the globe.
 5. An app that shows the pollution levels in a neighborhood/city/town/area with real time data. -NASA API
+Story: User can see if they should limit outside exposure due to pollution levels in their area.
 6. An app that has all information on ice cps melting, levels of carbon dioxide, methane, and nitrous oxide in the atmosphere. maybe also add the polution levels in your area into this app(maybe). -NASA API
+Story: User can see up to date information on the current state of the world when it comes to global warming. 
 7. An app that give information on mars(current weather condtions, images from the mars rover, missions involving mars). -NASA API
+Story: User can see information on mars.
 8. A corona virus app that gives live data on the vrius and other information about the virus(symptoms, how to treat when infected, hospital capacity). -covid19 API
+Story: User can get up to date information on the Corona virus.
 ---------------------------------------------------------
 
 Make a PR when you're done!
