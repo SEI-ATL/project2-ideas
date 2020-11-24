@@ -9,9 +9,12 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Netflix suggestions. Use netflix API to randombly generate a movie suggestion based on user preference. User makes a user profile and their movie history is stored. They are also able to rate the movies they have seen.
+API: UnoGS
+2. Cryptocurrency navigator. Show different coins by search and info for each coing.
+api: https://www.coingecko.com/api/documentations/v3
+3. Same as idea #1 but with video games
+api: https://api.rawg.io/api/games?page_size=5&search=gta%20v
 ---------------------------------------------------------
 
 Make a PR when you're done!
