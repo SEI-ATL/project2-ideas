@@ -15,6 +15,9 @@ https://openweathermap.org/api
 
 2. Build an nba stats application where a user can keep tabs on their favorite players through out the season. With updated stats and fun facts. Also using a third partyapp.
 I thought about this as a person that plays fantasy sports. A stretch would be to see if the api could provide breaking news about players.
+https://fantasydata.com/api/api-documentation/nba
+https://www.npmjs.com/package/nba
+
 3. Not as excited about this one but I did find a currency converter api. The api allows for real time currency converstion that are based on time and date. I have yet to use this one but I have used the weather and sports one in the first 2 ideas.
 ---------------------------------------------------------
 
