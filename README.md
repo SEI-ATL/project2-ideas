@@ -9,7 +9,7 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. Spectrum: log your favorite songs (Spotify or SoundCloud). Find songs with similar frequency profiles using:
+1. **Spectrum:** log your favorite songs (Spotify or SoundCloud). Find songs with similar frequency profiles using:
 
     A. audiomotion analyzer: https://www.npmjs.com/package/audiomotion-analyzer - this extracts all the frequency data
     
@@ -20,9 +20,13 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
     
     D. Is it too complex to directly search for matching frequency profiles? Or could I just find a way to narrowly compare different songs?
     
+    **User experience:** "As a user, I want to explore a new way of comparing the music that I like, and to search for different music that I might enjoy."
+    
 2. Something that explores an EEG data set: https://openneuro.org/public/datasets
 
     A. Find a type of activity in a database and visualize it? A user could log snapshots?
+    
+    **User experience:** As a user, I want to explore snippets of EEG data that match a particular profile."
 
 3. Something that explores the http://www.soundslice.com music education API? https://www.npmjs.com/package/@percuss.io/soundslice-data-api
 
