@@ -9,9 +9,9 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. ecommerce site using paypal, stripe apis for payments instagram, google, facebook for interaction, displaying posts about products on site
+2. social media website and app
+3. sales management app
 ---------------------------------------------------------
 
 Make a PR when you're done!
