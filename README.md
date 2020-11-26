@@ -28,7 +28,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-![Image of ERD Strain](img/erd.png)
+![Image of ERD Strain](img/ERD.png)
 
 | Model | Schema | Association |
 | ----- | ------ | ----------- |
