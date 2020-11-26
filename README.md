@@ -10,6 +10,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 --------------------------------------------------------
 1. Using strain API, making an app where users can log in look through various marijuana strains and effects and engage on a platform about which ones they enjoy, what kind of effects they've had with the strain(ie: positive or negative)
+[strain Api](`https://strainapi.evanbusse.com`)
 2. 
 3.
 ---------------------------------------------------------
@@ -27,13 +28,39 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
+![Image of ERD Strain](img/erd.png)
+
+| Model | Schema | Association |
+| ----- | ------ | ----------- |
+| User  | id, email, pw |  Has many reviews |
+| Profile Page | id, content, user_id, title | belongs to user |
+| Reviews/comments | id, content, user_id, name, strain_id, profile_id | belongs to user and strain |
+| Strains | id, name, flavor, race, effect | has many comments |
+| Description | strain_id, content | belongs to many strains | 
+
+
 
 ----------------------------------------------------------
 ### User Stories
+- As a user I want to be able to view and save strain information regarding the name, effect, flavor or race of each plant. I would also like to delete any information i have saved from my profile page
+- Be able to see detailed descriptions on each strain
+- I would like to be able to review strains i have used and comment about my experiences as well others
+- Set up my user profile with my favorites and my experiences
+
 
 ----------------------------------------------------------
 ### Wireframes
+- Home Page
+![Image of Home Page](img/strainHomePage.png)
 
+- Profile Page
+![Image of Profile Page](img/profilePage.png)
+
+- Strain Page
+![Image of Strain Page](img/strainPage.png)
+
+- Description Page
+![Image of description Page](img/descriptionPage.png)
 ----------------------------------------------------------
 
 Make a PR when you're done!
