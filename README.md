@@ -13,15 +13,24 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 WeTalk - is based on the popularity of video chat based apps during covid-19. The neccesity of teams being able to connect while social distancing has increased the popularity of applications such as Zoom and Discord. The API will alow for sharing peer-to-peer data, video, and audio calls.
 
-Stage One - User will be prompted to create an account or login to be able to connect with friends. If the user registers we will redirect them to their profile to which they will be able to modify things such as profile picture/name and a few other small things.
+(1)  User will be prompted to create an account or login to be able to connect with friends. If the user registers we will redirect them to their profile to which they will be able to modify things such as profile picture/name and a few other small things.
 
-Stage Two - User will be able to create a room and invite a friend using the link to the room or they will also be given the option to join a room already in session by entering a valid chat link where prompted.
+(2)  User will be able to create a room and invite a friend using the link to the room or they will also be given the option to join a room already in session by entering a valid chat link where prompted.
 
-Stage Three - User will be able to favorite people to be able to have easy access to them in the future. When signing out and signing back in all that happened previously should remain the same and updated.
+(3)  User will be able to favorite people to be able to have easy access to them in the future. When signing out and signing back in all that happened previously should remain the same and updated.
 
 
 
-2. 
+2. Weather app (https://openweathermap.org/)
+WhatsTheWeather - simple weather app to be able to check the current weather of any place you'd like.
+
+(1) User will be able to enter a location to view current weather (possibly hourly and a few days in advance... still figuring it out)
+
+(2) User will be able to save their favorite or common searches as well as remove, after logging in or creating account.
+
+(3) User will be able to see multiple locations at once in a list format with the option to click to expand on details of location
+
+
 3.
 ---------------------------------------------------------
 
