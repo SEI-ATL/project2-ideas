@@ -31,10 +31,20 @@ WhatsTheWeather - simple weather app to be able to check the current weather of 
 (3) User will be able to see multiple locations at once in a list format with the option to click to expand on details of location
 
 
-3.
+3. Recipe App
+
+(1) User will be able to create an account and look up recipes.
+
+(2) User will be able to browse recipes based on keywords or ingredients.
+
+(3) User will be able to save favorite recipes for quick view 
+
+
+
 ---------------------------------------------------------
 
 Make a PR when you're done!
+
 
 ---
 
