@@ -9,7 +9,7 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-##1. Video Chat Application 1 on 1 / API(https://peerjs.com/docs.html#api)
+## 1. Video Chat Application 1 on 1 / API(https://peerjs.com/docs.html#api)
 
 WeTalk - is based on the popularity of video chat based apps during covid-19. The neccesity of teams being able to connect while social distancing has increased the popularity of applications such as Zoom and Discord. The API will alow for sharing peer-to-peer data, video, and audio calls.
 
@@ -21,7 +21,7 @@ WeTalk - is based on the popularity of video chat based apps during covid-19. Th
 
 
 
-##2. Weather app (https://openweathermap.org/)
+## 2. Weather app (https://openweathermap.org/)
 WhatsTheWeather - simple weather app to be able to check the current weather of any place you'd like.
 
 (1) User will be able to enter a location to view current weather (possibly hourly and a few days in advance... still figuring it out)
@@ -31,7 +31,7 @@ WhatsTheWeather - simple weather app to be able to check the current weather of 
 (3) User will be able to see multiple locations at once in a list format with the option to click to expand on details of location
 
 
-##3. Recipe App
+## 3. Recipe App
 
 (1) User will be able to create an account and look up recipes.
 
