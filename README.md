@@ -31,7 +31,7 @@ WhatsTheWeather - simple weather app to be able to check the current weather of 
 (3) User will be able to see multiple locations at once in a list format with the option to click to expand on details of location
 
 
-## 3. Recipe App
+## 3. Recipe App (https://rapidapi.com/thecocktaildb/api/themealdb)
 
 (1) User will be able to create an account and look up recipes.
 
