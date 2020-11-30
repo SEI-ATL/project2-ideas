@@ -31,13 +31,16 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-
+![Image of ERD](https://i.ibb.co/dr06gZJ/Screen-Shot-2020-11-29-at-8-55-58-AM.png)
 ----------------------------------------------------------
 ### User Stories
 
 ----------------------------------------------------------
 ### Wireframes
-
+![Image of Character Creation](https://i.ibb.co/JcXyVht/character-Creation.png)
+![Image of Character Info](https://i.ibb.co/Y0hwyj8/character-Info.png)
+![Image of Homepage](https://i.ibb.co/0hYDC4P/homePage.png)
+![Image of profile page](https://i.ibb.co/7k3TCPT/PROFILEpage.png)
 ----------------------------------------------------------
 
 Make a PR when you're done!
