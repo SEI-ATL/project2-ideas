@@ -9,9 +9,9 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. WHAT TO COOK- As a stay at home mom, I often want to find new recipes based on the ingredients already available to me in my fridge.
-2. WORDS- As a young writer, it is important to me that I spice things up. I want to be able to quickly access information about a word I want to use, including other words I could possible replace it with.
-3. VIRUS SHIELD- As a novice engineer, I want to be able to easily scan files and documents I may want to upload or copy onto my computer, as the right virus could easily everything on my computer. 
+1. WHAT TO COOK- As a stay at home mom, I often want to find new recipes based on the ingredients already available to me in my fridge. This is the website for the API https://www.linguarobot.io/.
+2. WORDS- As a young writer, it is important to me that I spice things up. I want to be able to quickly access information about a word I want to use, including other words I could possible replace it with. This is the website for the API https://www.themealdb.com/api.php
+3. VIRUS SHIELD- As a novice engineer, I want to be able to easily scan files and documents I may want to upload or copy onto my computer, as the right virus could easily everything on my computer. This is the website for the API https://developers.virustotal.com/reference#public-vs-private-api.
 ---------------------------------------------------------
 
 Make a PR when you're done!
