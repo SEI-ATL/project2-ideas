@@ -9,6 +9,7 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
+
 1. An app that randomly recommends vacation ideas. After logging in, the app would use Google Maps API to determine the user's location, then Delta's API to find the nearest airport to that location as well as all flights leaving that airport in the near future, then recommend one of those flights (at random) to the user. The app would help "sell" the user on the vacation destination by providing images of the location using the first images that pop up on Google Images API that happen to match the location. The user could potentially set a max budget to spend on the flight, which would narrow down the search results. They could also set a time window (e.g., flights leaving within a week, flights leaving within a month).
 [Delta](https://pro.delta.com/content/agency/us/en/home.html)
 [Google Maps](https://developers.google.com/maps/documentation)
@@ -37,12 +38,29 @@ In the space below:
 * either embed or link wireframes for every page of your app
 
 ----------------------------------------------------------
+
 ### ERD
+
 ![Database](reading.png)
-----------------------------------------------------------
-### User Stories
 
 ----------------------------------------------------------
+
+### User Stories
+
+1. A user can use the app by visiting the site, creating an account, and logging into their account.
+2. A user can rate random books from a database of more than 60,000 books on a scale from 1 to 5.
+3. A user can receive random book recommendations based on how they rated previous books.
+4. A user can pass on random book recommendations if they have no desire to have that particular book recommended to them again, or a user can add random book recommendations to their reading list if they want to read that book at a later point in time.
+5. A user can view a list of all the books they have previously rated, and the user can view a list of all the books they have previously added to their reading list.
+6. A user can change their rating of any book.
+7. A user can read a book in their reading list.
+8. A user can remove a book from their reading list.
+9. A user can mark books as read.
+10. A user can view a list of all the books they have marked as read.
+11. A user can receive weekly notificaiton emails about all the books they currently have in their reading list.
+
+----------------------------------------------------------
+
 ### Wireframes
 
 ----------------------------------------------------------
