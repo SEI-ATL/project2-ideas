@@ -13,6 +13,10 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 https://www.npmjs.com/package/weather
 https://openweathermap.org/api
 
+Add some activities a user can do in the area
+maybe eventbrite api, yelp, 
+
+
 2. Build an nba stats application where a user can keep tabs on their favorite players through out the season. With updated stats and fun facts. Also using a third partyapp.
 I thought about this as a person that plays fantasy sports. A stretch would be to see if the api could provide breaking news about players.
 https://fantasydata.com/api/api-documentation/nba
@@ -38,8 +42,15 @@ In the space below:
 ----------------------------------------------------------
 ### User Stories
 
+User should be able to login and search they're favorite places or constantly get updated weather.
+
+In addition to being able look uo their favorite places. THey should be able to see activities they can do in that weather. Or they should be able to get weather warning for inclimate weather.
+
 ----------------------------------------------------------
 ### Wireframes
+
+![my image](wire.png)
+
 
 ----------------------------------------------------------
 
