@@ -44,7 +44,7 @@ In the space below:
 
 User should be able to login and search they're favorite places or constantly get updated weather.
 
-In addition to being able look uo their favorite places. THey should be able to see activities they can do in that weather. Or they should be able to get weather warning for inclimate weather.
+In addition to being able look up their favorite places. THey should be able to see activities they can do in that weather. Or they should be able to get weather warning for inclimate weather.
 
 ----------------------------------------------------------
 ### Wireframes
