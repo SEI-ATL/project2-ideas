@@ -41,7 +41,7 @@ In the space below:
 
 ### ERD
 
-![Database](reading.png)
+![Database](/images/reading.png)
 
 ----------------------------------------------------------
 
@@ -62,6 +62,20 @@ In the space below:
 ----------------------------------------------------------
 
 ### Wireframes
+
+![Home Page](/images/homepage.png)
+
+![Create Account](/images/create-account.png)
+
+![Login](/images/login.png)
+
+![Unrated Books](/images/unrated-books.png)
+
+![Rated Books](/images/rated-books.png)
+
+![Reading List](/images/reading-list.png)
+
+![Book Suggestion](/images/book-suggestion.png)
 
 ----------------------------------------------------------
 
