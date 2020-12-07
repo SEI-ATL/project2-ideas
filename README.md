@@ -39,10 +39,19 @@ In the space below:
 https://dbdesigner.page.link/wxXt86L6Pm4rKZB46
 ----------------------------------------------------------
 ### User Stories
-
+As a gym member, I want to search for songs by title, artist, or album, so I can find music for the gym.
+As a gym member, I want to recommend songs for the gym playlist, so the gym will play music I like.
+As a gym admin, I want to see a list of all songs recommended by gym members, so I can make my patrons workout more enjoyable. 
 ----------------------------------------------------------
 ### Wireframes
-
+User Logged In
+![User, Logged In](wireframes/UserLoggedIn.png)
+User Logged Out
+![User, Logged out](wireframes/UserLoggedIn.png)
+Admin - User View
+![Admin, User View](wireframes/AdminUserView.png)
+Admin - All Favorites
+![Admin - All Faves](wireframes/AdminAllFaves.png)
 ----------------------------------------------------------
 
 Make a PR when you're done!
